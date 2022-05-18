@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-This project is pre-configures with [Husky](https://www.npmjs.com/package/husky) (git hooks library), that help you commit clean code.
+This project is pre-configured with [Husky](https://www.npmjs.com/package/husky) (git hooks library), that helps you commit clean code.
 
 ## Learn More
 
